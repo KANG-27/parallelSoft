@@ -1,0 +1,4 @@
+.barra-navegacion{
+    @apply fixed hover:top-1;
+}
+
